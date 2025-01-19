@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+}
+img{
+    width: 210px;
+    height: 230px;
+    border: 1.5px solid blue;
+}
+
+h1{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+span{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

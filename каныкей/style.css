@@ -1,0 +1,21 @@
+body{
+    background: sienna;
+}
+
+img{
+    width: 210px;
+    height: 230px;
+}
+
+span{
+    color: bisque;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
